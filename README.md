@@ -9,3 +9,8 @@ It's not fancy or special, but it works quite well. It's a nice exercise in adap
 
 I challenge you to make it better!
 
+![](https://raw.githubusercontent.com/notreallyJake/SwiftLife/master/swiftlife.gif)
+
+## Author
+Jan Willem de Birk [@notreallyJake](https://twitter.com/notreallyJake)
+
